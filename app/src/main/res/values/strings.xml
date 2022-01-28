@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="snack_bar_undo">Отменить удаление</string>
+</resources>
